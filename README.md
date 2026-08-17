@@ -46,8 +46,3 @@ Je nach verwendeter Version benötigst du:
 - Python 3.x
 - Git
 
-### Repository klonen
-
-```bash
-git clone https://github.com/DEIN-USERNAME/TaskForge.git
-cd TaskForge
