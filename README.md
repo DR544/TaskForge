@@ -1,8 +1,8 @@
-# 🔨 TaskForge
+# 🔨 DevForge
 
-**TaskForge** ist eine moderne und übersichtliche To-do-App zur Verwaltung von Aufgaben, Projekten und täglichen Zielen.
+**DevForge** ist eine moderne und übersichtliche To-do-App zur Verwaltung von Aufgaben, Projekten und täglichen Zielen.
 
-Mit TaskForge kannst du deine Aufgaben zentral organisieren, Prioritäten setzen und jederzeit den Überblick über deine offenen und erledigten Aufgaben behalten.
+Mit DevForge kannst du deine Aufgaben zentral organisieren, Prioritäten setzen und jederzeit den Überblick über deine offenen und erledigten Aufgaben behalten.
 
 ---
 
@@ -22,7 +22,7 @@ Mit TaskForge kannst du deine Aufgaben zentral organisieren, Prioritäten setzen
 
 ## 🖥️ Übersicht
 
-TaskForge wurde entwickelt, um deine täglichen Aufgaben einfach und strukturiert zu verwalten.
+DevForge wurde entwickelt, um deine täglichen Aufgaben einfach und strukturiert zu verwalten.
 
 ### Dashboard
 
